@@ -1,5 +1,21 @@
-![Cream Minimalist Corporate Personal Profile LinkedIn Banner(3)](https://user-images.githubusercontent.com/118007944/210138173-0149c0c2-8ea8-46e6-8b18-e5d36558ba11.png)
+![Github prof](https://user-images.githubusercontent.com/118007944/210139845-8a63bff9-bd4a-43ca-b304-73fd7f35e523.png)
 
-<div id="header">
-  <img src="https://media.giphy.com/media/fwWN1z5x11VaLEqMdD/giphy.gif" width="100"/>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rahilsaini/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://linktr.ee/madeupgalaxy">
+    <img src="https://img.shields.io/badge/Linktree-brightgreen?style=for-the-badge&logo=linktree&logoColor=black" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/madeupgalaxy">
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
+  </a>
 </div>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align="center">
+  hey galaxians
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
