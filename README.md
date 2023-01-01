@@ -42,7 +42,7 @@ I am a Developer/ Designer/ Innovator <img src="https://media.giphy.com/media/WU
 ### :hammer_and_wrench: Languages and Tools I use :
 
 <div>
-  <img src="https://raw.githubusercontent.com/VectorLogoZone/vectorlogozone/e22c3938fd5bd94f93a50899e7b8d1f417893ad9/www/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
