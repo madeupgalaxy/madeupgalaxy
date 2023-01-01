@@ -42,7 +42,7 @@ I am a Developer/ Designer/ Innovator <img src="https://media.giphy.com/media/WU
 ### :hammer_and_wrench: Languages and Tools I use :
 
 <div>
-  <img src="https://user-images.githubusercontent.com/118007944/210168246-2125c2a4-18b1-4f94-aa56-bdf52aa433a5.png" title="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://user-images.githubusercontent.com/118007944/210170357-956a94a6-f211-4123-be52-76218a34f0d8.png" title="Python" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169606-c82d88a2-13bb-4316-96a1-79afa957be31.png" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169621-d38589c3-6bbe-4764-92f3-8fe7bf5942d5.png" title="Go"  alt="Go" width="30" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169798-b37d24e5-92b4-4519-8761-f744a681bf11.png" title="Java" alt="Java" width="30" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ I am a Developer/ Designer/ Innovator <img src="https://media.giphy.com/media/WU
   <img src="https://user-images.githubusercontent.com/118007944/210169846-be4c8e3b-e1de-4d16-9b7e-acb8e37d8644.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169849-fefc3163-551a-4c3a-9144-fcc6f407b45c.png" title="Android" alt="Android" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/118007944/210169979-223578c2-6d0f-4e9c-9752-f91b30ddd104.png" title="Linux" alt="Linux" width="40" height="45"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/118007944/210169853-f230446c-6d1f-47c5-8360-96c900391fd6.png" title="Git" **alt="Git" width="45" height="40"/>
+  <img src="https://user-images.githubusercontent.com/118007944/210169853-f230446c-6d1f-47c5-8360-96c900391fd6.png" title="Git" **alt="Git" width="45" height="38"/>
 </div>
 
 
