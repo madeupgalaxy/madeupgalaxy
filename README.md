@@ -64,7 +64,7 @@ I am a Developer/ Designer/ Innovator <img src="https://media.giphy.com/media/WU
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madeupgalaxy&theme=horizon&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=madeupgalaxy)](https://git.io/streak-stats)
 
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=madeupgalaxy&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
  
