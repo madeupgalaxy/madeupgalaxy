@@ -11,9 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=github&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <h1 align="center">
   hey galaxians
