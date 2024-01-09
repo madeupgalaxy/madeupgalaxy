@@ -1,42 +1,18 @@
-![g3](https://user-images.githubusercontent.com/118007944/210166195-dbd2514a-4ba3-429b-a8db-a2a3da49b6ab.png)
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rahilsaini/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://linktr.ee/madeupgalaxy">
-    <img src="https://img.shields.io/badge/Linktree-brightgreen?style=for-the-badge&logo=linktree&logoColor=black" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/madeupgalaxy">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
 <h1 align="center">
-  hey galaxians
+  Hello Galaxy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="250" align="right">
 
 ### :man_technologist: About Me :
-I am a Developer/ Designer/ Innovator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: Currently exploring various software tech.
-- 📖Learning new programming languages, playing with their libraries. 
-- 💻Testing out various frameworks. 
-- 🛰️Contributing to Open Source Software Communities.
-- ✍️Exploring Technical Content Writing.
-
-- 🌐 Favorite Language: Python 🐍
- Favorite Framework : Flutter 😎
-:zap:  Favorite IDE : VIM + Vscode
-
-- :seedling:Additionally I excel in creative work like UI/UX designing, Video and Photo editing and Content Writing.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
+I am a passionate Software Developer and open source contributor.
+- :telescope: Exploring
+- 🛰️ I use Arch Btw. 
+- 💖 = Python and Flutter 
+- :mailbox: Sharing updates on    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools I use :
 
 <div>
@@ -45,6 +21,7 @@ I am a Developer/ Designer/ Innovator <img src="https://media.giphy.com/media/WU
   <img src="https://user-images.githubusercontent.com/118007944/210169621-d38589c3-6bbe-4764-92f3-8fe7bf5942d5.png" title="Go"  alt="Go" width="30" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169798-b37d24e5-92b4-4519-8761-f744a681bf11.png" title="Java" alt="Java" width="30" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169766-b651d356-00aa-4cd5-884d-f3049eb21792.png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/madeupgalaxy/madeupgalaxy/assets/118007944/2b08b596-707b-4155-a2c7-e7803f0c2740" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169666-4b3d1a5c-858a-403e-b4b4-e1e026624158.png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169692-98116baa-25a0-4372-8cc3-84e8b331d596.png" alt="Django" width="45" height="45"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210170141-99aef93e-53c8-409e-82b1-8eb303e22cc8.png" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
@@ -56,13 +33,13 @@ I am a Developer/ Designer/ Innovator <img src="https://media.giphy.com/media/WU
   <img src="https://user-images.githubusercontent.com/118007944/210169853-f230446c-6d1f-47c5-8360-96c900391fd6.png" title="Git" **alt="Git" width="45" height="38"/>
 </div>
 
-
-
-
 ---
+## My Stats
+| [![GitHub Streak](https://streak-stats.demolab.com?user=madeupgalaxy&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeupgalaxy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+**Top Repository** 👇
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madeupgalaxy&repo=tirtha&theme=buefy" /></a>
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=madeupgalaxy&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=madeupgalaxy&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
- 
+
+
