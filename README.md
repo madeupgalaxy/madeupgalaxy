@@ -22,7 +22,6 @@ I am a passionate Software Developer and open source contributor.
   <img src="https://github.com/madeupgalaxy/madeupgalaxy/assets/118007944/2d1caf71-49a3-4886-8680-44eb3f28fde9" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169606-c82d88a2-13bb-4316-96a1-79afa957be31.png" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169766-b651d356-00aa-4cd5-884d-f3049eb21792.png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/118007944/210169798-b37d24e5-92b4-4519-8761-f744a681bf11.png" title="Java" alt="Java" width="30" height="40"/>&nbsp;
   <img src="https://github.com/madeupgalaxy/madeupgalaxy/assets/118007944/2b08b596-707b-4155-a2c7-e7803f0c2740" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169666-4b3d1a5c-858a-403e-b4b4-e1e026624158.png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169692-98116baa-25a0-4372-8cc3-84e8b331d596.png" alt="Django" width="45" height="45"/>&nbsp;
