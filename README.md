@@ -37,8 +37,7 @@ I am a passionate Software Developer and open source contributor.
 ## 💡 𝖬𝗒 𝖲𝗍𝖺𝗍𝗌
 | [![GitHub Streak](https://streak-stats.demolab.com?user=madeupgalaxy&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeupgalaxy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-𝗧𝗼𝗽 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 👇
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madeupgalaxy&repo=tirtha&theme=buefy" /></a>
+
 
 
 
