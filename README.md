@@ -5,10 +5,9 @@
 
 <img src="https://octodex.github.com/images/Fintechtocat.png" width="250" align="right">
 
-## :man_technologist: 𝖠𝖻𝗈𝗎𝗍 𝖬𝖾 :
-So I finally caught you attention.
-- :telescope:PS : find attached My Work in repositories. 😉🛰️
-- :mailbox: Oh yeah !  I use social media :  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
+## :man_technologist: So I finally caught you attention huh ! 
+- PS : Attached my work in repositories section. 😉🛰️
+-  Oh yeah!  I use social media ➡️ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
 
 ---
 ## :hammer_and_wrench: ToolBox :
@@ -32,7 +31,7 @@ So I finally caught you attention.
 </div>
 
 ---
-## 💡 𝖬𝗒 𝖲𝗍𝖺𝗍𝗌
+## 💡 𝖬𝗒 Github Stats so far:
 | [![GitHub Streak](https://streak-stats.demolab.com?user=madeupgalaxy&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeupgalaxy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
