@@ -1,19 +1,17 @@
 <h1 align="center">
-  Hello Galaxy
+  Hey! It's me Rahil.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <img src="https://octodex.github.com/images/Fintechtocat.png" width="250" align="right">
 
 ## :man_technologist: 𝖠𝖻𝗈𝗎𝗍 𝖬𝖾 :
-I am a passionate Software Developer and open source contributor.
-- :telescope: Exploring
-- 🛰️ I use Arch Btw. 
-- 💖 = Python and Flutter 
-- :mailbox: Sharing updates on    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
+So I finally caught you attention.
+- :telescope:PS : find attached My Work in repositories. 😉🛰️
+- :mailbox: Oh yeah !  I use social media :  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
 
 ---
-## :hammer_and_wrench: 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 𝖺𝗇𝖽 𝖳𝗈𝗈𝗅𝗌 𝖨 𝗎𝗌𝖾 :
+## :hammer_and_wrench: ToolBox :
 
 
 <div>
