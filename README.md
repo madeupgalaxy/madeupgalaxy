@@ -1,15 +1,10 @@
-<h1 align="center">
-  Hey! It's me Rahil.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<img src="https://octodex.github.com/images/Fintechtocat.png" width="250" align="right">
-
-## :man_technologist: So I finally caught you attention huh ! 
+## :man_technologist: So I finally caught your attention huh ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 - PS : Attached my work in repositories section. 😉🛰️
--  Oh yeah!  I use social media ➡️ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
+-  And yeah!  I use social media ➤ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsaini/)
 
 ---
+
 ## :hammer_and_wrench: ToolBox :
 
 
@@ -28,12 +23,12 @@
   <img src="https://user-images.githubusercontent.com/118007944/210169849-fefc3163-551a-4c3a-9144-fcc6f407b45c.png" title="Android" alt="Android" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/118007944/210169979-223578c2-6d0f-4e9c-9752-f91b30ddd104.png" title="Linux" alt="Linux" width="40" height="45"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/118007944/210169853-f230446c-6d1f-47c5-8360-96c900391fd6.png" title="Git" **alt="Git" width="45" height="38"/>
+  ****
 </div>
+<img src="https://octodex.github.com/images/jetpacktocat.png" width="110" align="right">
 
----
-## 💡 𝖬𝗒 Github Stats so far:
-| [![GitHub Streak](https://streak-stats.demolab.com?user=madeupgalaxy&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeupgalaxy&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+
 
 
 
